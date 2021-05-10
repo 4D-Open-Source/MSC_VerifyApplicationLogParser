@@ -1,18 +1,19 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# No user preferences
+userPreferences.*
 
-# Other files and folders
-.settings/
+# No derived data
+Project/DerivedData
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# No data or indexes
+Data/*
+*.4dd
+*.4DIndx
+*.4DIndy
+*.Match
+*symbols.txt
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# No logs
+Logs
+
+Settings/buildApp.4DSettings
+Resources/componentManifest.json
